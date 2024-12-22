@@ -158,7 +158,8 @@ h1, h2, h3, p {
 }
 
 .cta-btn:hover {
-  background-color: #9E7C3B;
+  background-color: #fff;
+  color: #333;
 }
 
 /* About Section */
@@ -262,6 +263,9 @@ h1, h2, h3, p {
 .portfolio-cards .card:hover {
   transform: translateY(-10px);
 }
+.portfolio-cards .card:hover h3 {
+  color: #333;
+}
 
 .portfolio-cards .card img {
   max-width: 100%;
@@ -269,14 +273,14 @@ h1, h2, h3, p {
 }
 
 .portfolio-cards .card h3 {
-  color: #2D2D2D;
+  color: #B39D5D;
   margin-top: 1rem;
   font-size: 1.3rem;
 }
 
 /* Contact Section */
 .contact {
-  padding: 6rem 2rem;
+  padding: 4.5rem 2rem;
   background-color: #B39D5D; /* Golden accent color */
   text-align: center;
   color: #fff;
@@ -284,7 +288,7 @@ h1, h2, h3, p {
 
 .contact h2 {
   font-size: 3rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   font-weight: 600;
 }
 
