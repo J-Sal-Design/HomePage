@@ -68,7 +68,7 @@ h1, h2, h3, p {
 
 /* Hero Section for Coming Soon */
 .hero.coming-soon {
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0.4) 50%), url(Resources/loading.gif);
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0.4) 50%), url(loading.gif);
   background-size: 100%;
   color: #fff;
   text-align: center;
