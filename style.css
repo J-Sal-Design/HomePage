@@ -213,6 +213,8 @@ h1, h2, h3, p {
 
 .service-cards .card:hover {
   transform: translateY(-10px);
+  background-color: #efefef;
+  font-weight: bold;
 }
 
 .service-cards .card h3, a {
