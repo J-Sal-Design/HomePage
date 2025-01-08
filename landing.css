@@ -71,7 +71,7 @@ body {
   align-items: center;
   text-align: center;
   padding: 2rem;
-  background-image: url(LandingResources / Background.jpeg);
+  background-image: url(LandingResources/Background.jpeg);
   background-size: 150%;
   color: #fff;
 }
