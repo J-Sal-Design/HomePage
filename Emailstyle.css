@@ -126,7 +126,7 @@ h1, h2, h3, p {
 
 /* Hero Section */
 .hero {
-  background-image: url(Email.HomePageResources/Email.HomePagebackground.gif);  
+  background-image: url(EmailHomePageResources/EmailHomePagebackground);  
   background-position: center;
   color: #fff;
   text-align: center;
